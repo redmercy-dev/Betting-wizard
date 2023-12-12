@@ -6,7 +6,7 @@ import tempfile
 
 # Streamlit app
 def main():
-    st.set_page_config(page_title="Tax Provider", layout="wide")
+    st.set_page_config(page_title="Betting Wizard", layout="wide")
 
     # Custom CSS to inject into the Streamlit app
     custom_css = """
